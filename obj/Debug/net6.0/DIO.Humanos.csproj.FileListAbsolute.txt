@@ -1,0 +1,15 @@
+C:\Users\Filipe\Documents\Github\dio-cadastro\DIO.Humanos\bin\Debug\net6.0\DIO.Humanos.exe
+C:\Users\Filipe\Documents\Github\dio-cadastro\DIO.Humanos\bin\Debug\net6.0\DIO.Humanos.deps.json
+C:\Users\Filipe\Documents\Github\dio-cadastro\DIO.Humanos\bin\Debug\net6.0\DIO.Humanos.runtimeconfig.json
+C:\Users\Filipe\Documents\Github\dio-cadastro\DIO.Humanos\bin\Debug\net6.0\DIO.Humanos.dll
+C:\Users\Filipe\Documents\Github\dio-cadastro\DIO.Humanos\bin\Debug\net6.0\ref\DIO.Humanos.dll
+C:\Users\Filipe\Documents\Github\dio-cadastro\DIO.Humanos\bin\Debug\net6.0\DIO.Humanos.pdb
+C:\Users\Filipe\Documents\Github\dio-cadastro\DIO.Humanos\obj\Debug\net6.0\DIO.Humanos.csproj.AssemblyReference.cache
+C:\Users\Filipe\Documents\Github\dio-cadastro\DIO.Humanos\obj\Debug\net6.0\DIO.Humanos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filipe\Documents\Github\dio-cadastro\DIO.Humanos\obj\Debug\net6.0\DIO.Humanos.AssemblyInfoInputs.cache
+C:\Users\Filipe\Documents\Github\dio-cadastro\DIO.Humanos\obj\Debug\net6.0\DIO.Humanos.AssemblyInfo.cs
+C:\Users\Filipe\Documents\Github\dio-cadastro\DIO.Humanos\obj\Debug\net6.0\DIO.Humanos.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\Documents\Github\dio-cadastro\DIO.Humanos\obj\Debug\net6.0\DIO.Humanos.dll
+C:\Users\Filipe\Documents\Github\dio-cadastro\DIO.Humanos\obj\Debug\net6.0\ref\DIO.Humanos.dll
+C:\Users\Filipe\Documents\Github\dio-cadastro\DIO.Humanos\obj\Debug\net6.0\DIO.Humanos.pdb
+C:\Users\Filipe\Documents\Github\dio-cadastro\DIO.Humanos\obj\Debug\net6.0\DIO.Humanos.genruntimeconfig.cache
